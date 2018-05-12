@@ -1,0 +1,112 @@
+﻿@article{RN4,
+   author = {Bailey, D. L. and Willowson, K. P.},
+   title = {An evidence-based review of quantitative SPECT imaging and potential clinical applications},
+   journal = {J Nucl Med},
+   volume = {54},
+   number = {1},
+   pages = {83-9},
+   ISSN = {0161-5505},
+   DOI = {10.2967/jnumed.112.111476},
+   url = {http://jnm.snmjournals.org/content/54/1/83.full.pdf},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN5,
+   author = {Gnesin, Silvano and Leite Ferreira, Paulo and Malterre, Jerome and Laub, Priscille and Prior, John O. and Verdun, Francis R.},
+   title = {Phantom Validation of Tc-99m Absolute Quantification in a SPECT/CT Commercial Device},
+   journal = {Computational and Mathematical Methods in Medicine},
+   volume = {2016},
+   pages = {6},
+   DOI = {10.1155/2016/4360371},
+   url = {http://dx.doi.org/10.1155/2016/4360371
+http://downloads.hindawi.com/journals/cmmm/2016/4360371.pdf},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN7,
+   author = {Koral, K. F. and Francis, I. R. and Kroll, S. and Zasadny, K. R. and Kaminski, M. S. and Wahl, R. L.},
+   title = {Volume reduction versus radiation dose for tumors in previously untreated lymphoma patients who received iodine-131 tositumomab therapy. Conjugate views compared with a hybrid method},
+   journal = {Cancer},
+   volume = {94},
+   number = {4 Suppl},
+   pages = {1258-63},
+   ISSN = {0008-543X (Print)
+0008-543x},
+   url = {https://deepblue.lib.umich.edu/bitstream/handle/2027.42/34359/10294_ftp.pdf?sequence=1},
+   year = {2002},
+   type = {Journal Article}
+}
+
+@article{RN6,
+   author = {Kuji, Ichiei and Yamane, Tomohiko and Seto, Akira and Yasumizu, Yota and Shirotake, Suguru and Oyama, Masafumi},
+   title = {Skeletal standardized uptake values obtained by quantitative SPECT/CT as an osteoblastic biomarker for the discrimination of active bone metastasis in prostate cancer},
+   journal = {European Journal of Hybrid Imaging},
+   volume = {1},
+   number = {1},
+   pages = {2},
+   ISSN = {2510-3636},
+   DOI = {10.1186/s41824-017-0006-y},
+   url = {https://doi.org/10.1186/s41824-017-0006-y
+https://ejhi.springeropen.com/track/pdf/10.1186/s41824-017-0006-y},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN1,
+   author = {Li, T. and Ao, E. C. I. and Lambert, B. and Brans, B. and Vandenberghe, S. and Mok, G. S. P.},
+   title = {Quantitative Imaging for Targeted Radionuclide Therapy Dosimetry - Technical Review},
+   journal = {Theranostics},
+   volume = {7},
+   number = {18},
+   pages = {4551-4565},
+   ISSN = {1838-7640},
+   DOI = {10.7150/thno.19782},
+   url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695148/pdf/thnov07p4551.pdf},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN2,
+   author = {Marin, Gwennaëlle and Vanderlinden, Bruno and Karfis, Ioannis and Guiot, Thomas and Wimana, Zena and Flamen, Patrick and Vandenberghe, Stefaan},
+   title = {Accuracy and precision assessment for activity quantification in individualized dosimetry of 177Lu-DOTATATE therapy},
+   journal = {EJNMMI Physics},
+   volume = {4},
+   number = {1},
+   pages = {7},
+   ISSN = {2197-7364},
+   DOI = {10.1186/s40658-017-0174-7},
+   url = {https://doi.org/10.1186/s40658-017-0174-7
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5267757/pdf/40658_2017_Article_174.pdf},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN8,
+   author = {Rosenthal, M.S. and Cullom, J. and Hawkins, W. and Moore, S.C. and Tsui, B.M.W. and Yester, M.},
+   title = {Quantitative SPECT Imaging: A Review and Recommendations by the Focus Committee of the Society of Nuclear Medicine Computer and Instrumentation Council},
+   journal = {Journal of Nuclear Medicine},
+   volume = {36},
+   number = {8},
+   pages = {1489-1513},
+   url = {http://jnm.snmjournals.org/content/36/8/1489.short
+http://jnm.snmjournals.org/content/36/8/1489.full.pdf},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN3,
+   author = {Seret, Alain and Nguyen, Daniel and Bernard, Claire},
+   title = {Quantitative capabilities of four state-of-the-art SPECT-CT cameras},
+   journal = {EJNMMI Research},
+   volume = {2},
+   pages = {45-45},
+   ISSN = {2191-219X},
+   DOI = {10.1186/2191-219X-2-45},
+   url = {http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469367/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3469367/pdf/2191-219X-2-45.pdf},
+   year = {2012},
+   type = {Journal Article}
+}
+

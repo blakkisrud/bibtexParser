@@ -1,0 +1,20 @@
+\documentclass{beamer}
+
+\newcommand\blfootnote[1]{%
+  \begingroup
+  \renewcommand\thefootnote{}\footnote{#1}%
+  \addtocounter{footnote}{-1}%
+  \endgroup
+}
+
+\begin{document}
+
+\begin{frame}
+\begin{columns}
+\column{1\textwidth}
+Something that we really want to reference
+\end{columns}
+\blfootnote{text in the footnote}
+\end{frame}
+
+\end{document}
